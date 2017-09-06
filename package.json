@@ -1,7 +1,6 @@
 {
-  "name": "x-puppeteer",
+  "name": "puppeteer",
   "author": "z0zroot@gmail.com",
-  "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
