@@ -15,7 +15,7 @@ app.disable('x-powered-by');
 
 app.use(async (req, res, next) => {
   if (!req.query.url) {
-    return res.status(400).send('For eaxample, ?url=http://github.com');
+    return res.status(400).send('For example, You can visit to add ?url=http://github.com');
   }
 
   try {
