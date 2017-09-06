@@ -1,0 +1,18 @@
+{
+  "name": "x-puppeteer",
+  "author": "z0zroot@gmail.com",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.4",
+    "puppeteer": "^0.10.1"
+  }
+}
